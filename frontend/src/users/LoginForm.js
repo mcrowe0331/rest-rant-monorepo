@@ -35,10 +35,6 @@ function LoginForm() {
        }
        }
 
-       console.log(data)
-
-    }
-
     return (
         <main>
             <h1>Login</h1>
